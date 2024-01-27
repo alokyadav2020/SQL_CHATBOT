@@ -1,0 +1,10 @@
+langchain
+pymysql
+streamlit
+google-generativeai
+python-dotenv
+langchain_google_genai
+huggingface_hub
+streamlit==1.22.0
+
+-e .
